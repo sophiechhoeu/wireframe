@@ -1,0 +1,103 @@
+
+*{
+  margin: 10px;
+  padding: 10px;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+.image {
+  float: right;
+  margin-top: 65px;
+  width:50%;
+}
+
+.image2{
+  float:right;
+  position:relative;
+  width:50%;
+}
+
+
+.header{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight:100;
+  letter-spacing:5px;
+  width: 50%;
+
+}
+
+.header_wireframe{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight:100;
+  letter-spacing:5px;
+}
+
+.header_wireframe:hover{
+  background-color:black;
+  color: white;
+}
+
+
+.website{
+width:40%;
+font-size:14px;
+line-height:20px;
+font-family:'Carme', sans-serif;
+}
+
+
+.axure{
+  width: 40%;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: 'Carme', sans-serif;
+  color: black;
+}
+
+.axurelink:active{
+  color:#FFC4CD;
+}
+
+.axurelink{
+  margin:0;
+  padding:0;
+  color: black;
+}
+
+
+.pinterest{
+  width:40%;
+  font-size:14px;
+  line-height: 20px;
+  font-family: 'Carme', sans-serif;
+  color: black;
+}
+
+.moodboard:active{
+  color:#FFC4CD;
+}
+
+.moodboard{
+  margin:0;
+  padding:0;
+  color: black;
+}
+
+.colours{
+  width:40%;
+  background-color:#FFF8F9;
+  font-size:14px;
+  line-height: 20px;
+  font-family: 'Carme', sans-serif;
+}
+
+.typography{
+  width:40%;
+  font-size:14px;
+  line-height: 20px;
+  font-family: 'Carme', sans-serif;
+  background-color:#FFE1E6;
+}
